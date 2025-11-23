@@ -9,5 +9,9 @@ Program do odtwarzania plików .mp3 i .exe, napisany w Visual Basic 6.0
 * Łatwa instalacja i przenośność - brak zewnętrznych wymagań od użytkownika
 * Całkowita łatwość i efektywność użycia przez użytkownika
 
+# Dla Deweloperów
+Importując kod do swojego środowiska VB6, <b><i>upewnij się, że masz te wymagania: </b></i>
+* <b>Windows Media Player/Microsoft Media Player (wmp.dll)</b>
+
 # Autor
 Rozpoczęto 23 listopada, 2025 przez C0m3b4ck. 
