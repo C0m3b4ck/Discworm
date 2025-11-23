@@ -9,5 +9,9 @@ A program for playing .exe and .mp3 files, made in Visual Basic 6.0
 * Easy installation and portability - no dependencies need to be installed by user
 * Overall user convenience and ease of use
 
+# For Developers
+When importing the project into your VB6 codespace, <b><i>make sure to import these dependencies:</b></i>
+* <b>Windows Media Player/Microsoft Media Player (wmp.dll)</b>
+
 # Author
 Started on November 23rd, 2025 by C0m3b4ck. 
