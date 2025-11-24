@@ -8,6 +8,7 @@ Program do odtwarzania plików .mp3 i .exe, napisany w Visual Basic 6.0
 * Maksymalna prędkość, efektywność i minimalne zużycie zasobów
 * Łatwa instalacja i przenośność - brak zewnętrznych wymagań od użytkownika
 * Całkowita łatwość i efektywność użycia przez użytkownika
+* Przeszłe, teraźniejsze i przyszłe wsparcie Windows
 
 # Dla Deweloperów
 Importując kod do swojego środowiska VB6, <b><i>upewnij się, że masz te wymagania: </b></i>
