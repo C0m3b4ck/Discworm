@@ -1,7 +1,7 @@
 <a href=https://github.com/C0m3b4ck/Discworm/blob/main/README_PL.md>🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱POLSKA WERSJA🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a>
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Discworm/total)
 # Discworm
-A program for playing .exe and .mp3 files, made in Visual Basic 6.0
+A program for playing .exe and audio files, made in Visual Basic 6.0
 <br><b><i>Supports: Windows 98, Windows 2000, Windows NT 4.1, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Windows 11</i></b>
 
 # Principles
