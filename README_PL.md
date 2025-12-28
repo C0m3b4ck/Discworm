@@ -1,4 +1,4 @@
-<a href=https://github.com/C0m3b4ck/Discworm/README.md>🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸ENGLISH VERSION🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸</a>
+<a href=https://github.com/C0m3b4ck/Discworm/blob/main/README.md>🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸ENGLISH VERSION🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸</a>
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/Discworm/total)
 # Discworm
 Program do odtwarzania plików audio i .exe, napisany w Visual Basic 6.0
